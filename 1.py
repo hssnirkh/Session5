@@ -1,5 +1,5 @@
 list = []
-for i in range(1,21):
+for i in range(1,3):
 	name = input("{0}= Name : ".format(i))
 	tedad = int(input("tedad dars : "))
 	list.append(name)
